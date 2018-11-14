@@ -3,15 +3,21 @@ body {
     background-color: black;
     color:#e5212f;
     width: 600px;
-    justify-content: center;
     flex-direction: column;
     text-align: center;
     margin: auto;
 }
 
-.daredevil {
-    margin-bottom: 10px;
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 0px;
 }
+
+.daredevil-substitle {
+    font-size: 2.5em;
+    margin-top: 0px;
+    margin-bottom: 10px;
     
     
 
