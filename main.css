@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: red;
+}
+.daredevil {
+    text-align: center;
+}
+.daredevil-info {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
